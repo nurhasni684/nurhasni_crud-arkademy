@@ -1,3 +1,1 @@
-![screenshot](crud/index.php
-
-)
+![screenshot](screenshot.png)
