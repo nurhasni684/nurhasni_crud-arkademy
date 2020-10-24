@@ -1,1 +1,0 @@
-# nurhasni_crud-arkademy
